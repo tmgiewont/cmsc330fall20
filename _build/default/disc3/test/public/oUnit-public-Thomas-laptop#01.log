@@ -1,0 +1,40 @@
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:0:concat.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:0:concat exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:0:concat.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_concat in file "disc3/test/public/public.ml", line 5, characters 23-40
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:0:concat.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:2:fib.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:2:fib exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:2:fib.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_fib in file "disc3/test/public/public.ml", line 13, characters 19-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:2:fib.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:3:add_three.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:3:add_three exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:3:add_three.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_add_three in file "disc3/test/public/public.ml", line 19, characters 25-44
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:3:add_three.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:4:filter.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:4:filter exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:4:filter.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_filter in file "disc3/test/public/public.ml", line 23, characters 24-47
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:4:filter.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:5:func_defn.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:5:func_defn exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:5:func_defn.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_func_defn in file "disc3/test/public/public.ml", line 34, characters 12-24
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:5:func_defn.

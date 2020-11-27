@@ -1,0 +1,18 @@
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Start test public:0:count_occ.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Test public:0:count_occ is successful.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: End test public:0:count_occ.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Start test public:2:assoc_list.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Test public:2:assoc_list is successful.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: End test public:2:assoc_list.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Start test public:3:ap.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Test public:3:ap is successful.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: End test public:3:ap.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Start test public:4:int_tree.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Test public:4:int_tree is successful.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: End test public:4:int_tree.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Start test public:6:ptree_2.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Test public:6:ptree_2 is successful.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: End test public:6:ptree_2.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Start test public:7:var.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: Test public:7:var is successful.
+2020-10-08T02:39:11+00:00 Thomas-laptop#01 I: End test public:7:var.

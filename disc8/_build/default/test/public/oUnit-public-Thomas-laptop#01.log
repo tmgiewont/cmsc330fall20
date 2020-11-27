@@ -1,0 +1,30 @@
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:0:lex_empty.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:0:lex_empty is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:0:lex_empty.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:2:lex_one_plus_two.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:2:lex_one_plus_two is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:2:lex_one_plus_two.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:3:lex_one_times_two.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:3:lex_one_times_two is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:3:lex_one_times_two.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:4:long_lexer_1.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:4:long_lexer_1 is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:4:long_lexer_1.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:6:long_lexer_3.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:6:long_lexer_3 is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:6:long_lexer_3.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:7:long_lexer_4.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:7:long_lexer_4 is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:7:long_lexer_4.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:10:parse_one_times_two.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:10:parse_one_times_two is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:10:parse_one_times_two.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:11:long_parser_1.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:11:long_parser_1 is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:11:long_parser_1.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:13:long_parser_3.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:13:long_parser_3 is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:13:long_parser_3.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Start test public:15:right_associative.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: Test public:15:right_associative is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#01 I: End test public:15:right_associative.

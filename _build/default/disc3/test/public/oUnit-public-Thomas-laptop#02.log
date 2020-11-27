@@ -1,0 +1,8 @@
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Start test public:1:add_to_float.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Test public:1:add_to_float exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Failure("unimplemented") in test public:1:add_to_float.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Called from Dune__exe__Public.test_add_to_float in file "disc3/test/public/public.ml", line 9, characters 21-41
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: End test public:1:add_to_float.

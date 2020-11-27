@@ -1,0 +1,15 @@
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Start test public:1:abs.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Test public:1:abs is successful.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: End test public:1:abs.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Start test public:5:pow.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Test public:5:pow is successful.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: End test public:5:pow.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Start test public:8:next_prime.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Test public:8:next_prime is successful.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: End test public:8:next_prime.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Start test public:10:larger.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Test public:10:larger is successful.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: End test public:10:larger.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Start test public:12:combine.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Test public:12:combine is successful.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: End test public:12:combine.

@@ -1,0 +1,21 @@
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Start test public:1:lex_one.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Test public:1:lex_one is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: End test public:1:lex_one.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Start test public:5:long_lexer_2.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Test public:5:long_lexer_2 is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: End test public:5:long_lexer_2.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Start test public:8:parse_one.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Test public:8:parse_one is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: End test public:8:parse_one.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Start test public:9:parse_one_plus_two.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Test public:9:parse_one_plus_two is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: End test public:9:parse_one_plus_two.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Start test public:12:long_parser_2.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Test public:12:long_parser_2 is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: End test public:12:long_parser_2.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Start test public:14:long_parser_4.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Test public:14:long_parser_4 is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: End test public:14:long_parser_4.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Start test public:16:parentheses.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: Test public:16:parentheses is successful.
+2020-11-01T21:57:11+00:00 Thomas-laptop#02 I: End test public:16:parentheses.

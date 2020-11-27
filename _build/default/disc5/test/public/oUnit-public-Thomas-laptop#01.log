@@ -1,0 +1,48 @@
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:0:mul_n.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:0:mul_n exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:0:mul_n.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_mul_n in file "disc5/test/public/public.ml", line 5, characters 17-38
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:0:mul_n.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:2:list_of_option.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:2:list_of_option exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:2:list_of_option.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_list_of_option in file "disc5/test/public/public.ml", line 15, characters 17-44
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:2:list_of_option.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:3:match_key.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:3:match_key exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:3:match_key.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_match_key in file "disc5/test/public/public.ml", line 20, characters 17-37
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:3:match_key.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:4:list_of_lengthlist.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:4:list_of_lengthlist exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:4:list_of_lengthlist.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_list_of_lengthlist in file "disc5/test/public/public.ml", line 26, characters 17-43
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:4:list_of_lengthlist.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:5:map_lengthlist.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:5:map_lengthlist exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:5:map_lengthlist.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_map_lengthlist in file "disc5/test/public/public.ml", line 31, characters 17-52
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:5:map_lengthlist.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:6:decrement_count.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:6:decrement_count exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:6:decrement_count.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_decrement_count in file "disc5/test/public/public.ml", line 37, characters 17-90
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:6:decrement_count.

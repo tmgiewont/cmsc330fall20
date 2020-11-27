@@ -1,0 +1,20 @@
+EXCLUDE_QUERY_DIR
+B /home/tgiewont/.opam/4.11.0/lib/bytes
+B /home/tgiewont/.opam/4.11.0/lib/oUnit
+B /home/tgiewont/.opam/4.11.0/lib/ocaml
+B /home/tgiewont/.opam/4.11.0/lib/ounit2
+B /home/tgiewont/.opam/4.11.0/lib/ounit2/advanced
+B /home/tgiewont/.opam/4.11.0/lib/stdlib-shims
+B ../../../../_build/default/cmsc330fall20/project2b/src/.p2b.objs/byte
+B ../../../../_build/default/cmsc330fall20/project2b/test/.testUtils.objs/byte
+B ../../../../_build/default/cmsc330fall20/project2b/test/public/.public.eobjs/byte
+S /home/tgiewont/.opam/4.11.0/lib/bytes
+S /home/tgiewont/.opam/4.11.0/lib/oUnit
+S /home/tgiewont/.opam/4.11.0/lib/ocaml
+S /home/tgiewont/.opam/4.11.0/lib/ounit2
+S /home/tgiewont/.opam/4.11.0/lib/ounit2/advanced
+S /home/tgiewont/.opam/4.11.0/lib/stdlib-shims
+S ../../src
+S ..
+S .
+FLG -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs

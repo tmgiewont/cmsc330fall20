@@ -1,0 +1,141 @@
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Runner: processes
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Chooser: simple
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration suite_name = "public"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration cache_filename = "/home/tgiewont/cmsc330fall20/_build/default/disc4/test/public/oUnit-$(suite_name).cache"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration run_gc_full_major = "true"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration display = "true"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration results_style_1_X = "false"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration testdata_dir = "none"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration health_check_interval = "1."
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration verbose = "false"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration chooser = "simple"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration output_html_dir = "none"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration processes_kill_period = "5."
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration runner = "processes"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration shards = "2"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration processes_grace_period = "5."
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration log_encoding = "utf-8"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration output_junit_file = "none"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration ci = "false"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Configuration output_file = "/home/tgiewont/cmsc330fall20/_build/default/disc4/test/public/oUnit-$(suite_name)-$(shard_id).log"
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Using 2 workers maximum.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Starting worker number Thomas-laptop#01.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Worker Thomas-laptop#01 started.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Starting worker number Thomas-laptop#02.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Worker Thomas-laptop#02 started.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:1:multi_map, public:0:mul_thresh.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:0:mul_thresh.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:1:multi_map, public:0:mul_thresh.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:0:mul_thresh exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:0:mul_thresh.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_mul_thresh in file "disc4/test/public/public.ml", line 5, characters 17-41
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:1:multi_map, public:0:mul_thresh.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:0:mul_thresh.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:1:multi_map, public:0:mul_thresh.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:2:update_database, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:2:update_database.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:2:update_database, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:2:update_database exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:2:update_database.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_update_database in file "disc4/test/public/public.ml", line 16, characters 17-90
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:2:update_database, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:2:update_database.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:2:update_database, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:3:stalin_sort, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:3:stalin_sort.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:3:stalin_sort, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:3:stalin_sort exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:3:stalin_sort.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_stalin_sort in file "disc4/test/public/public.ml", line 20, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:3:stalin_sort, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:3:stalin_sort.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:3:stalin_sort, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Still 2 tests running : public:4:stalin_sort_right, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:4:stalin_sort_right, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: Start test public:4:stalin_sort_right.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Still 2 tests running : public:4:stalin_sort_right, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:4:stalin_sort_right, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Test public:4:stalin_sort_right exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Failure("unimplemented") in test public:4:stalin_sort_right.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from Dune__exe__Public.test_stalin_sort_right in file "disc4/test/public/public.ml", line 26, characters 17-39
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Still 2 tests running : public:4:stalin_sort_right, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:4:stalin_sort_right, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#01 I: End test public:4:stalin_sort_right.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Still 2 tests running : public:4:stalin_sort_right, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 2 tests running: public:4:stalin_sort_right, public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Still 1 tests running : public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 1 tests running: public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: Start test public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Still 1 tests running : public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 1 tests running: public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Test public:1:multi_map exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Failure("unimplemented") in test public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Called from Dune__exe__Public.test_multi_map in file "disc4/test/public/public.ml", line 11, characters 17-95
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Still 1 tests running : public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 1 tests running: public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#02 I: End test public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Still 1 tests running : public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 1 tests running: public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: 0 tests running: .
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Worker Thomas-laptop#01 has ended.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Worker Thomas-laptop#02 has ended.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Used 2 worker during test execution.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Run 4 tests with shard Thomas-laptop#01.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Run 1 tests with shard Thomas-laptop#02.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Check health of shard Thomas-laptop#01, 5 times.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Check health of shard Thomas-laptop#02, 1 times.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: ==============
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Summary:
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Test public:1:multi_map exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Failure("unimplemented") in test public:1:multi_map.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from Dune__exe__Public.test_multi_map in file "disc4/test/public/public.ml", line 11, characters 17-95
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Test public:4:stalin_sort_right exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Failure("unimplemented") in test public:4:stalin_sort_right.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from Dune__exe__Public.test_stalin_sort_right in file "disc4/test/public/public.ml", line 26, characters 17-39
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Test public:3:stalin_sort exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Failure("unimplemented") in test public:3:stalin_sort.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from Dune__exe__Public.test_stalin_sort in file "disc4/test/public/public.ml", line 20, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Test public:2:update_database exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Failure("unimplemented") in test public:2:update_database.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from Dune__exe__Public.test_update_database in file "disc4/test/public/public.ml", line 16, characters 17-90
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Test public:0:mul_thresh exited with an error.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Failure("unimplemented") in test public:0:mul_thresh.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from Dune__exe__Public.test_mul_thresh in file "disc4/test/public/public.ml", line 5, characters 17-41
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 E: 
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Ran: 5 tests in: 0.12 seconds.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Cases: 5.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Tried: 5.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Errors: 5.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Failures: 0.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Skip: 0.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Todo: 0.
+2020-10-23T02:16:27+00:00 Thomas-laptop#00 I: Timeout: 0.

@@ -1,0 +1,33 @@
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:0:public_assign1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:0:public_assign1 is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:0:public_assign1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:2:public_define1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:2:public_define1 is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:2:public_define1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:4:public_exp1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:4:public_exp1 is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:4:public_exp1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:6:public_greater.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:6:public_greater is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:6:public_greater.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:8:public_ifelse.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:8:public_ifelse is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:8:public_ifelse.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:10:public_less.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:10:public_less is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:10:public_less.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:12:public_nested_if.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:12:public_nested_if is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:12:public_nested_if.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:15:public_print.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:15:public_print is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:15:public_print.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:16:public_test1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:16:public_test1 is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:16:public_test1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:18:public_test3.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:18:public_test3 is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:18:public_test3.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Start test public:20:public_assoc1.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: Test public:20:public_assoc1 is successful.
+2020-11-09T00:41:41+00:00 Thomas-laptop#01 I: End test public:20:public_assoc1.
